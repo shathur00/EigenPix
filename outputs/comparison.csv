@@ -1,0 +1,3 @@
+method,runtime_s,count,count_unit,max_eigenvalue_error,eigenvector_error,min_alignment
+power,0.023137958021834493,3318,iterations,0.00011091732872614557,2.8181894636158944e-05,0.9999718181053638
+jacobi,0.1648421250283718,11,sweeps,5.602487362921238e-10,0.0,1.0
